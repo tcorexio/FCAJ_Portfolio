@@ -1,30 +1,34 @@
+### Objectives of Week 8
 
+* Finalize the system and complete all project documentation.
+* Validate disaster recovery capabilities.
+* Prepare for project handover and final presentation.
 
-### Week 8 Objectives
+### Tasks Completed During the Week
 
-* Complete the "As-Built" architectural documentation for Spendwise.
-* Verify the Disaster Recovery (DR) scenarios for the database.
-* Finalize project handover and cost summary.
+| Day | Task | Start Date | End Date | References |
+|-----|------|------------|----------|------------|
+| 1 | - Analyze system costs <br>&emsp; + Use AWS Cost Explorer <br>&emsp; + Compare with initial estimates | 27/04/2026 | 27/04/2026 | - |
+| 2 | - Perform disaster recovery testing <br>&emsp; + Restore RDS from snapshot <br>&emsp; + Verify data integrity | 28/04/2026 | 28/04/2026 | - |
+| 3 | - Finalize infrastructure code <br>&emsp; + Review and clean up Terraform configurations <br>&emsp; + Commit to main repository | 29/04/2026 | 29/04/2026 | - |
+| 4 | - Update system architecture <br>&emsp; + Complete As-built 3-tier diagram <br>&emsp; + Align with actual implementation | 30/04/2026 | 30/04/2026 | - |
+| 5 | - Clean up resources <br>&emsp; + Remove unused test/staging environments <br>&emsp; + Optimize operational costs | 01/05/2026 | 01/05/2026 | - |
+| 6 | - Complete documentation <br>&emsp; + Write operational runbook <br>&emsp; + Provide deployment and maintenance guidelines | 02/05/2026 | 02/05/2026 | - |
+| 7 | - Final review and handover <br>&emsp; + Push source code to GitHub <br>&emsp; + Prepare demo (video/YouTube if applicable) <br>&emsp; + Conduct final project review meeting | 03/05/2026 | 03/05/2026 | - |
 
-### Tasks carried out this week
+### Weekly Achievements
 
-| Day | Task | Start Date | Completion Date | Reference Material |
-| --- | --- | --- | --- | --- |
-| 1 | - Update the 3-tier AWS architectural diagrams to match deployment | 27/04/2026 | 27/04/2026 | - |
-| 2 | - Perform a live RDS Restore from snapshot to verify DR | 28/04/2026 | 28/04/2026 | - |
-| 3 | - Commit finalized Terraform codebase to the main repository | 29/04/2026 | 29/04/2026 | - |
-| 4 | - Compare actual project costs against the $69-$326 estimate | 30/04/2026 | 30/04/2026 | - |
-| 5 | - Decommission temporary testing/staging resources | 01/05/2026 | 01/05/2026 | - |
-| 6 | - Complete the Operational Runbook and maintenance guides | 02/05/2026 | 02/05/2026 | - |
-| 7 | - Project wrap-up meeting and final handover to operations | 03/05/2026 | 03/05/2026 | - |
+* The Spendwise system is fully deployed and operational on AWS.
+* Disaster recovery procedures have been successfully validated.
+* Complete documentation is available for operation and future scaling.
+* The project is ready for demonstration and portfolio usage.
 
-### Week 8 Achievements
+### Challenges & Lessons Learned
 
-* Spendwise is fully operational on AWS with comprehensive documentation.
-* Validated database recovery procedures ensure business continuity.
-* Infrastructure-as-Code (IaC) is complete and ready for future scaling.
+* **Challenge:** Ensuring consistency between documentation and actual system implementation.
+* **Solution:** Conduct a full system review and cross-check each component before handover.
+* **Lesson Learned:** Documentation is just as important as implementation in real-world projects.
 
-### Final Lessons Learned
+### Plan for Next Week
 
-* **The Power of Automation:** Terraform reduced manual configuration errors by 80%.
-* **Cost Vigilance:** Consistent NAT and Log monitoring is vital to avoiding "bill shock".
+* Not applicable (project completed).

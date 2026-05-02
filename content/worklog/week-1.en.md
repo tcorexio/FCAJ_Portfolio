@@ -1,38 +1,37 @@
-### Week 1 Objectives
+### Objectives of Week 1
 
-* Finalize functional requirements and Non-Functional Requirements (NFR) for the Spendwise application.
-* Initialize the infrastructure management strategy using Terraform (S3 backend/State strategy).
-* Establish the fundamental network infrastructure on AWS, including VPC, Security Groups, ALB, and ECR.
+* Get familiar with the team and set up internal communication channels.
+* Finalize the Spendwise project topic.
+* Study relevant technologies and AWS services.
+* Define the overall system architecture.
 
-### Tasks carried out this week
+### Tasks Completed During the Week
 
-| Day | Task | Start Date | Completion Date | Reference Material |
-| --- | --- | --- | --- | --- |
-| 1 | - Spendwise Requirement Analysis <br>&emsp; + Finalized financial tracking and analysis features <br>&emsp; + Defined stability and data security requirements | 09/03/2026 | 09/03/2026 | |
-| 2 | - Terraform Initialization <br>&emsp; + Configured S3 bucket as remote backend <br>&emsp; + Set up DynamoDB for state locking | 10/03/2026 | 10/03/2026 | |
-| 3 | - **Amazon VPC** Setup <br>&emsp; + Divided Public/Private Subnets across multiple Availability Zones <br>&emsp; + Configured Internet Gateway for the Public layer | 11/03/2026 | 11/03/2026 | |
-| 4 | - Security Configuration <br>&emsp; + Established **Security Groups** for ALB, ECS, and RDS <br>&emsp; + Applied Least Privilege principles | 12/03/2026 | 12/03/2026 | |
-| 5 | - Compute Service Initialization <br>&emsp; + Created **Amazon ECR** repository <br>&emsp; + Configured basic **Amazon ECS** cluster | 13/03/2026 | 13/03/2026 | |
-| 6 | - Load Balancing <br>&emsp; + Set up **Application Load Balancer (ALB)** <br>&emsp; + Configured Target Group for NestJS backend | 14/03/2026 | 14/03/2026 | |
-| 7 | - Infrastructure Verification <br>&emsp; + Verified network connectivity between subnets <br>&emsp; + Tested image push capabilities to ECR | 15/03/2026 | 15/03/2026 | |
+| Day | Task | Start Date | End Date | References |
+|-----|------|------------|----------|------------|
+| 1 | - Set up internal communication channels (Zalo, Discord) <br>&emsp; + Align on communication workflow <br>&emsp; + Assign roles within the team | 09/03/2026 | 09/03/2026 | - |
+| 2 | - Discuss and finalize the Spendwise project <br>&emsp; + Define application goals <br>&emsp; + Identify target users | 10/03/2026 | 10/03/2026 | - |
+| 3 | - Analyze system requirements <br>&emsp; + Core features (expense tracking, financial analysis) <br>&emsp; + Non-functional requirements (security, reliability) | 11/03/2026 | 11/03/2026 | - |
+| 4 | - Research AWS services <br>&emsp; + ECS, RDS, VPC, Cognito <br>&emsp; + Overview of cloud architecture | 12/03/2026 | 12/03/2026 | - |
+| 5 | - Learn Docker and Terraform basics <br>&emsp; + Understand containerization <br>&emsp; + Introduction to Infrastructure as Code | 13/03/2026 | 13/03/2026 | - |
+| 6 | - Design initial system architecture <br>&emsp; + 3-tier model (Frontend, Backend, Database) | 14/03/2026 | 14/03/2026 | - |
+| 7 | - Summarize learnings and prepare implementation plan | 15/03/2026 | 15/03/2026 | - |
 
-### Week 1 Achievements
+### Weekly Achievements
 
-* All team members agreed on the 3-tier architecture deployed on AWS Cloud.
-* Network infrastructure (VPC) is ready with corresponding Security Group protection for each service.
-* Image repository (ECR) and system entry point (ALB) are established for application deployment.
+* Established communication channels and team workflow.
+* Finalized the project scope for Spendwise.
+* Gained a solid overview of the technologies and services to be used.
+* Defined the initial system architecture.
 
-### Challenges & Lessons
+### Challenges & Lessons Learned
 
-* **Challenges:** 
-  * Initially complex Subnet partitioning and Routing configuration for VPC Endpoints to ensure internal traffic stays off the Internet.
-* **Solutions:** 
-  * Consulted AWS Best Practices for VPC Design and maintained strict Public/Private separation.
-* **Lessons Learned:** 
-  * Using Terraform from day one ensures tight infrastructure control and easy configuration reuse for different environments.
+* **Challenge:** Getting familiar with multiple new technologies in a short time.
+* **Solution:** Break down learning topics and maintain frequent team discussions.
+* **Lesson Learned:** Proper preparation at the early stage helps reduce issues during implementation.
 
-### Next Week Plan
+### Plan for Next Week
 
-* Integrate **Amazon Cognito** for the registration/login system.
-* Push the Backend image to ECR and officially rollout on ECS Fargate.
-* Connect the Amplify frontend with the actual API endpoint.
+* Start infrastructure setup using Terraform.
+* Configure networking components (VPC, Subnets, Security Groups).
+* Prepare environment for application deployment.

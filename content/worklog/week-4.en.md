@@ -1,39 +1,35 @@
+### Objectives of Week 4
 
+* Deploy the database on AWS.
+* Secure sensitive system information.
+* Configure HTTPS and custom domain for the application.
 
-### Week 4 Objectives
+### Tasks Completed During the Week
 
-* Conduct performance testing and verify Spendwise system stability.
-* Establish **Amazon CloudWatch** monitoring and budget alarms.
-* Evaluate actual costs and prepare operational documentation.
+| Day | Task | Start Date | End Date | References |
+|-----|------|------------|----------|------------|
+| 1 | - Initialize Amazon RDS (PostgreSQL) <br>&emsp; + Deploy in Private Subnet <br>&emsp; + Configure suitable instance type | 30/03/2026 | 30/03/2026 | - |
+| 2 | - Perform database migration <br>&emsp; + Connect ECS Service to RDS <br>&emsp; + Apply database schema | 31/03/2026 | 31/03/2026 | - |
+| 3 | - Set up AWS Secrets Manager <br>&emsp; + Store database credentials securely <br>&emsp; + Remove hardcoded secrets from code | 01/04/2026 | 01/04/2026 | - |
+| 4 | - Configure VPC Endpoint <br>&emsp; + Gateway Endpoint for S3 <br>&emsp; + Optimize internal access | 02/04/2026 | 02/04/2026 | - |
+| 5 | - Configure HTTPS <br>&emsp; + Request SSL certificate via ACM <br>&emsp; + Attach certificate to ALB | 03/04/2026 | 03/04/2026 | - |
+| 6 | - Configure custom domain <br>&emsp; + Map domain via Route 53 <br>&emsp; + Connect to ALB and Amplify | 04/04/2026 | 04/04/2026 | - |
+| 7 | - Perform security audit <br>&emsp; + Close unnecessary ports <br>&emsp; + Review Security Group rules | 05/04/2026 | 05/04/2026 | - |
 
-### Tasks carried out this week
+### Weekly Achievements
 
-| Day | Task | Start Date | Completion Date | Reference Material |
-| --- | --- | --- | --- | --- |
-| 1 | - Execute basic Stress tests on ALB and ECS services | 30/03/2026 | 30/03/2026 | - |
-| 2 | - Build **Amazon CloudWatch** Dashboards for Logs and Metrics | 31/03/2026 | 31/03/2026 | - |
-| 3 | - Configure **Budget Alarms** to warn if costs exceed the $69-$326 range | 01/04/2026 | 01/04/2026 | - |
-| 4 | - Write an Operational Runbook for incident handling and service restarts | 02/04/2026 | 02/04/2026 | - |
-| 5 | - Optimize CloudWatch Log retention periods to reduce storage fees | 03/04/2026 | 03/04/2026 | - |
-| 6 | - Audit the infrastructure configuration against the security checklist | 04/04/2026 | 04/04/2026 | - |
-| 7 | - Summarize the core deployment phase and preliminary handover | 05/04/2026 | 05/04/2026 | - |
+* Database is running reliably within a private network.
+* Sensitive information is securely managed using Secrets Manager.
+* The system now supports HTTPS with a custom domain.
 
-### Week 4 Achievements
+### Challenges & Lessons Learned
 
-* Centralized monitoring is operational, allowing for proactive error detection.
-* Budget is under control via automated cost notification systems.
-* Established performance benchmarks for current traffic levels.
+* **Challenge:** Managing connections between ECS and RDS to avoid database overload.
+* **Solution:** Monitor connection usage and apply controlled migration strategies.
+* **Lesson Learned:** Security should be implemented from the early stages, not as an afterthought.
 
-### Challenges & Lessons
+### Plan for Next Week
 
-* **Challenges:** 
-  * Rapidly increasing CloudWatch Log costs due to default indefinite retention.
-* **Solutions:** 
-  * Adjusted log retention policies and enabled "Right-sizing" for resources.
-* **Lessons Learned:** 
-  * Continuous monitoring is essential for identifying infrastructure waste early on.
-
-### Next Week Plan
-
-* Deploy **AWS WAF** for application-layer protection.
-* Configure a **Bastion Host** for secure DB administration.
+* Set up system monitoring using CloudWatch.
+* Perform performance testing.
+* Configure cost monitoring and alerts.

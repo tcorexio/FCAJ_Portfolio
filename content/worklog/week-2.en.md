@@ -1,39 +1,35 @@
+### Objectives of Week 2
 
+* Initialize infrastructure using Terraform.
+* Set up core networking components on AWS.
+* Prepare the foundation for application deployment.
 
-### Week 2 Objectives
+### Tasks Completed During the Week
 
-* Integrate the **Amazon Cognito** user identity system.
-* Complete the Backend deployment on **Amazon ECS (Fargate)**.
-* Connect the **AWS Amplify** frontend with the actual API endpoint.
+| Day | Task | Start Date | End Date | References |
+|-----|------|------------|----------|------------|
+| 1 | - Initialize Terraform <br>&emsp; + Configure S3 bucket as remote backend <br>&emsp; + Set up DynamoDB for state locking | 16/03/2026 | 16/03/2026 | - |
+| 2 | - Set up Amazon VPC <br>&emsp; + Create Public and Private Subnets across multiple Availability Zones <br>&emsp; + Configure Internet Gateway for public access | 17/03/2026 | 17/03/2026 | - |
+| 3 | - Configure security <br>&emsp; + Create Security Groups for ALB, ECS, and RDS <br>&emsp; + Apply least privilege principle | 18/03/2026 | 18/03/2026 | - |
+| 4 | - Initialize container services <br>&emsp; + Create repository on Amazon ECR <br>&emsp; + Configure basic ECS Cluster | 19/03/2026 | 19/03/2026 | - |
+| 5 | - Set up load balancing <br>&emsp; + Configure Application Load Balancer (ALB) <br>&emsp; + Create Target Group for backend service | 20/03/2026 | 20/03/2026 | - |
+| 6 | - Configure VPC Endpoints <br>&emsp; + Interface Endpoints for ECR and CloudWatch <br>&emsp; + Ensure internal traffic does not go through the Internet | 21/03/2026 | 21/03/2026 | - |
+| 7 | - Infrastructure validation <br>&emsp; + Verify connectivity between subnets <br>&emsp; + Test internal access via VPC Endpoints | 22/03/2026 | 22/03/2026 | - |
 
-### Tasks carried out this week
+### Weekly Achievements
 
-| Day | Task | Start Date | Completion Date | Reference Material |
-| --- | --- | --- | --- | --- |
-| 1 | - Configure **Amazon Cognito** User Pool for sign-up/sign-in | 16/03/2026 | 16/03/2026 | - |
-| 2 | - Set up **VPC Endpoints** (Interface) for internal ECR/CloudWatch access | 17/03/2026 | 17/03/2026 | - |
-| 3 | - Build and push NestJS backend Docker image to ECR | 18/03/2026 | 18/03/2026 | - |
-| 4 | - Deploy ECS Service running on Fargate infrastructure | 19/03/2026 | 19/03/2026 | - |
-| 5 | - Connect **AWS Amplify** frontend to the Git repository | 20/03/2026 | 20/03/2026 | - |
-| 6 | - Inject environment variables (API URL, Cognito ID) during build | 21/03/2026 | 21/03/2026 | - |
-| 7 | - Verify end-to-end flow from Login to API data retrieval | 22/03/2026 | 22/03/2026 | - |
+* Core networking infrastructure (VPC) was successfully established with clear Public/Private segmentation.
+* Terraform was fully utilized to manage infrastructure as code.
+* Foundational services such as ECR, ECS, and ALB were ready for deployment.
 
-### Week 2 Achievements
+### Challenges & Lessons Learned
 
-* Successfully established a secure user authentication system via Cognito.
-* NestJS backend is officially operational on a serverless container environment (Fargate).
-* Frontend Amplify can now communicate directly with the backend API.
+* **Challenge:** Designing VPC and configuring routing rules was initially complex.
+* **Solution:** Follow AWS best practices and validate each component step-by-step.
+* **Lesson Learned:** A well-designed infrastructure foundation significantly reduces future scalability and maintenance issues.
 
-### Challenges & Lessons
+### Plan for Next Week
 
-* **Challenges:** 
-  * Experienced authentication errors due to environment variable mismatches between local and Cloud environments.
-* **Solutions:** 
-  * Standardized the release checklist and environment variable naming conventions.
-* **Lessons Learned:** 
-  * Early validation of internal networking via VPC Endpoints significantly reduces NAT Gateway traffic costs.
-
-### Next Week Plan
-
-* Initialize the **Amazon RDS (PostgreSQL)** database.
-* Configure HTTPS and further security hardening.
+* Deploy backend application to ECS Fargate.
+* Integrate user authentication using Amazon Cognito.
+* Connect frontend with backend APIs.

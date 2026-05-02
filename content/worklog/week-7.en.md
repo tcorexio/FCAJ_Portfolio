@@ -1,28 +1,35 @@
+### Objectives of Week 7
 
-### Week 7 Objectives
+* Optimize system performance based on real usage data.
+* Implement auto-scaling for dynamic workload handling.
+* Analyze and reduce operational costs.
 
-* Perform a deep-dive review of the AWS Billing Dashboard.
-* Evaluate NAT Gateway costs and optimize network traffic flows.
+### Tasks Completed During the Week
 
-### Tasks carried out this week
+| Day | Task | Start Date | End Date | References |
+|-----|------|------------|----------|------------|
+| 1 | - Analyze system resource usage <br>&emsp; + Monitor CPU and memory metrics of ECS <br>&emsp; + Evaluate real usage patterns | 20/04/2026 | 20/04/2026 | - |
+| 2 | - Optimize ECS tasks <br>&emsp; + Adjust CPU/RAM allocation (right-sizing) <br>&emsp; + Reduce over-provisioning | 21/04/2026 | 21/04/2026 | - |
+| 3 | - Implement auto-scaling <br>&emsp; + Configure scaling policies based on ALB requests <br>&emsp; + Test scale in/out behavior | 22/04/2026 | 22/04/2026 | - |
+| 4 | - Log analysis <br>&emsp; + Use CloudWatch Logs Insights <br>&emsp; + Create queries to track 5xx errors | 23/04/2026 | 23/04/2026 | - |
+| 5 | - Resilience testing <br>&emsp; + Simulate service crashes <br>&emsp; + Observe ECS self-healing behavior | 24/04/2026 | 24/04/2026 | - |
+| 6 | - Network cost optimization <br>&emsp; + Evaluate NAT Gateway usage <br>&emsp; + Compare with VPC Endpoints | 25/04/2026 | 25/04/2026 | - |
+| 7 | - Resource cleanup <br>&emsp; + Configure ECR lifecycle policy <br>&emsp; + Remove unused resources | 26/04/2026 | 26/04/2026 | - |
 
-| Day | Task | Start Date | Completion Date | Reference Material |
-| --- | --- | --- | --- | --- |
-| 1 | - Analyze cost reports from AWS Cost Explorer | 20/04/2026 | 20/04/2026 | - |
-| 2 | - Evaluate replacing NAT Gateway with VPC Endpoints for cost efficiency | 21/04/2026 | 21/04/2026 | - |
-| 3 | - Configure ECR Lifecycle Policies to auto-delete old images | 22/04/2026 | 22/04/2026 | - |
-| 4 | - Review risk of "Cost Spikes" during end-of-month traffic | 23/04/2026 | 23/04/2026 | - |
-| 5 | - Identify "Zombie resources" (Unused IPs, EB volumes) | 24/04/2026 | 24/04/2026 | - |
-| 6 | - Evaluate RDS storage costs and backup snapshot optimization | 25/04/2026 | 25/04/2026 | - |
-| 7 | - Draft a cost-optimization plan for the next project phase | 26/04/2026 | 26/04/2026 | - |
+### Weekly Achievements
 
-### Week 7 Achievements
+* The system can automatically scale based on traffic demand.
+* Resource usage is optimized, reducing unnecessary costs.
+* Improved observability through better log analysis.
 
-* Identified primary cost drivers and established mitigation strategies.
-* Automated storage cleanup on ECR, reducing monthly storage overhead.
-* Optimized network architecture to minimize NAT Gateway data processing fees.
+### Challenges & Lessons Learned
 
-### Next Week Plan
+* **Challenge:** Determining optimal scaling thresholds initially.
+* **Solution:** Continuously monitor real data and adjust incrementally.
+* **Lesson Learned:** Optimization is an ongoing process driven by real metrics, not assumptions.
 
-* Finalize as-built architectural diagrams.
-* Conduct a final Disaster Recovery (DR) test for RDS.
+### Plan for Next Week
+
+* Finalize system documentation (As-built architecture).
+* Perform disaster recovery testing.
+* Prepare for project handover and final presentation.

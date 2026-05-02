@@ -1,11 +1,10 @@
 export const profile = {
   name: "Nguyen Thanh Trong",
-  nickname: "hei",
+  nickname: "dole",
   role: {
-    en: "Supervisor & AI Engineer",
-    vi: "Giám sát viên & Kỹ sư AI",
+    en: "DevOps & AI Engineer",
+    vi: "DevOps & Kỹ sư AI",
   },
-  team: "NeuraX",
   company: {
     en: "Amazon Web Services Vietnam",
     vi: "Amazon Web Services Việt Nam",
@@ -15,22 +14,22 @@ export const profile = {
     vi: "First Cloud AI Journey",
   },
   duration: {
-    start: "05/01/2026",
-    end: "05/04/2026",
-    weeks: 12,
+    start: "09/03/2026",
+    end: "03/05/2026",
+    weeks: 8,
   },
   contact: {
-    phone: "0394262651",
-    email: "heiontheway@gmail.com",
+    phone: "0342301559",
+    email: "dolethanhtong@gmail.com",
   },
   university: {
     name: {
-      en: "FPT University HCMC",
-      vi: "Đại học FPT TP.HCM",
+      en: "SGU University HCMC",
+      vi: "Đại học Sài Gòn TP.HCM",
     },
     major: {
-      en: "Artificial Intelligence",
-      vi: "Trí tuệ Nhân tạo",
+      en: "Software Engineering",
+      vi: "Kỹ thuật Phần mềm",
     },
   },
 };

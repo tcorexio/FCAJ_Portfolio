@@ -1,9 +1,9 @@
 export const profile = {
   name: "Nguyen Thanh Trong",
-  nickname: "dole",
+  nickname: "trongnt",
   role: {
     en: "DevOps & AI Engineer",
-    vi: "DevOps & Kỹ sư AI",
+    vi: "Kỹ sư DevOps & Kỹ sư AI",
   },
   company: {
     en: "Amazon Web Services Vietnam",
@@ -20,7 +20,7 @@ export const profile = {
   },
   contact: {
     phone: "0342301559",
-    email: "dolethanhtong@gmail.com",
+    email: "nguyentrongthanh2112@gmail.com",
   },
   university: {
     name: {

@@ -1,13 +1,13 @@
 ---
-title: "Các yêu cầu về truy cập và thông tin"
-slug: "4-2-prerequisite"
-description: "Workshop content for Các yêu cầu về truy cập và thông tin."
-thumbnail: "/images/workshop/default-thumbnail.png"
+title: Các yêu cầu về truy cập và thông tin
+slug: /workshop/4.2-prerequiste/
+description: Workshop content: ﻿## Các yêu cầu về truy cập và thông tin
+thumbnail: /images/workshop/default-thumbnail.png
 date: 2026-05-03
 tags: ["workshop"]
-category: "workshop"
-author: "FCAJ Team"
-status: "published"
+category: workshop
+author: FCAJ Team
+status: published
 ---
 
 ## Overview

@@ -1,13 +1,13 @@
 ---
-title: "Sau khi hoàn thành workshop, việc dọn dẹp tài nguyên là bước tối quan trọng để tránh các chi phí phát sinh ngoài ý muốn từ AWS. Một số tài nguyên như NAT Instances và ALB sẽ tính phí theo giờ ngay cả khi không có lưu lượng truy cập."
-slug: "4-7-cleanup"
-description: "Workshop content for Sau khi hoàn thành workshop, việc dọn dẹp tài nguyên là bước tối quan trọng để tránh các chi phí phát sinh ngoài ý muốn từ AWS. Một số tài nguyên như NAT Instances và ALB sẽ tính phí theo giờ ngay cả khi không có lưu lượng truy cập.."
-thumbnail: "/images/workshop/default-thumbnail.png"
+title: ﻿Sau khi hoàn thành workshop, việc dọn dẹp tài nguyên là bước tối quan trọng để tránh các chi phí phát sinh ngoài ý muốn từ AWS. Một số tài nguyên như NAT Instances và ALB sẽ tính phí theo giờ ngay cả khi không có lưu lượng truy cập.
+slug: /workshop/4.7-cleanup/
+description: Workshop content: ﻿Sau khi hoàn thành workshop, việc dọn dẹp tài nguyên là bước tối quan trọng để tránh các chi phí phát sinh ngoài ý muốn từ AWS. Một số tài nguyên như NAT Instances và ALB sẽ tính phí theo giờ ngay cả khi không có lưu lượng truy cập.
+thumbnail: /images/workshop/default-thumbnail.png
 date: 2026-05-03
 tags: ["workshop"]
-category: "workshop"
-author: "FCAJ Team"
-status: "published"
+category: workshop
+author: FCAJ Team
+status: published
 ---
 
 ## Overview

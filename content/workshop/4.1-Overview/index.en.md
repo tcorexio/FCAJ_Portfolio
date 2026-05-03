@@ -1,13 +1,13 @@
 ---
-title: "Overall Architecture"
-slug: "4-1-overview"
-description: "Workshop content for Overall Architecture."
-thumbnail: "/images/workshop/default-thumbnail.png"
+title: Overview
+slug: /workshop/4.1-overview/
+description: Workshop content: ﻿## Introduction
+thumbnail: /images/workshop/default-thumbnail.png
 date: 2026-05-03
 tags: ["workshop"]
-category: "workshop"
-author: "FCAJ Team"
-status: "published"
+category: workshop
+author: FCAJ Team
+status: published
 ---
 
 ## Overview

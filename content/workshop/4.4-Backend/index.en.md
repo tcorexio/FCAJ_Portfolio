@@ -1,13 +1,13 @@
 ---
-title: "We will initialize the data heart of NutriTrack using TypeScript source code."
-slug: "4-4-backend"
-description: "Workshop content for We will initialize the data heart of NutriTrack using TypeScript source code.."
-thumbnail: "/images/workshop/default-thumbnail.png"
+title: ﻿We will initialize the data heart of NutriTrack using TypeScript source code.
+slug: /workshop/4.4-backend/
+description: Workshop content: ﻿We will initialize the data heart of NutriTrack using TypeScript source code.
+thumbnail: /images/workshop/default-thumbnail.png
 date: 2026-05-03
 tags: ["workshop"]
-category: "workshop"
-author: "FCAJ Team"
-status: "published"
+category: workshop
+author: FCAJ Team
+status: published
 ---
 
 ## Overview

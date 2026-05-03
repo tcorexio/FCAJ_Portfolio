@@ -1,13 +1,13 @@
 ---
-title: "Hàm này được kích hoạt tự động mỗi khi có hình ảnh được tải lên S3 để thu nhỏ kích thước (Resize) và tạo hình ảnh thu nhỏ (Thumbnail)."
-slug: "4-4-backend-4-4-4-functions-4-4-4-5-resizeimage"
-description: "Workshop content for Hàm này được kích hoạt tự động mỗi khi có hình ảnh được tải lên S3 để thu nhỏ kích thước (Resize) và tạo hình ảnh thu nhỏ (Thumbnail).."
-thumbnail: "/images/workshop/default-thumbnail.png"
+title: ﻿Hàm này được kích hoạt tự động mỗi khi có hình ảnh được tải lên S3 để thu nhỏ kích thước (Resize) và tạo hình ảnh thu nhỏ (Thumbnail).
+slug: /workshop/4.4-backend/4.4.4-functions/4.4.4.5-resizeimage/
+description: Workshop content: ﻿Hàm này được kích hoạt tự động mỗi khi có hình ảnh được tải lên S3 để thu nhỏ kích thước (Resize) và tạo hình ảnh thu nhỏ (Thumbnail).
+thumbnail: /images/workshop/default-thumbnail.png
 date: 2026-05-03
 tags: ["workshop"]
-category: "workshop"
-author: "FCAJ Team"
-status: "published"
+category: workshop
+author: FCAJ Team
+status: published
 ---
 
 ## Overview

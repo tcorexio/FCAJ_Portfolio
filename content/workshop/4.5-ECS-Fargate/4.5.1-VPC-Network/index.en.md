@@ -1,13 +1,13 @@
 ---
-title: "This guide helps you set up the AWS networking foundation for the NutriTrack API: a private VPC, 4 subnets across 2 AZs, Internet Gateway, Route Tables, 3 Security Groups, and an S3 Gateway VPC Endpoint."
-slug: "4-5-ecs-fargate-4-5-1-vpc-network"
-description: "Workshop content for This guide helps you set up the AWS networking foundation for the NutriTrack API: a private VPC, 4 subnets across 2 AZs, Internet Gateway, Route Tables, 3 Security Groups, and an S3 Gateway VPC Endpoint.."
-thumbnail: "/images/workshop/default-thumbnail.png"
+title: ﻿This guide helps you set up the AWS networking foundation for the NutriTrack API: a private VPC, 4 subnets across 2 AZs, Internet Gateway, Route Tables, 3 Security Groups, and an S3 Gateway VPC Endpoint.
+slug: /workshop/4.5-ecs-fargate/4.5.1-vpc-network/
+description: Workshop content: ﻿This guide helps you set up the AWS networking foundation for the NutriTrack API: a private VPC, 4 subnets across 2 AZs, Internet Gateway, Route Tables, 3 Security Groups, and an S3 Gateway VPC Endpoint.
+thumbnail: /images/workshop/default-thumbnail.png
 date: 2026-05-03
 tags: ["workshop"]
-category: "workshop"
-author: "FCAJ Team"
-status: "published"
+category: workshop
+author: FCAJ Team
+status: published
 ---
 
 ## Overview

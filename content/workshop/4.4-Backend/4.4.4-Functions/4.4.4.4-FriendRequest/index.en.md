@@ -1,13 +1,13 @@
 ---
-title: "This function manages complex logic related to the friendship system, including sending requests, accepting them, and managing links between users."
-slug: "4-4-backend-4-4-4-functions-4-4-4-4-friendrequest"
-description: "Workshop content for This function manages complex logic related to the friendship system, including sending requests, accepting them, and managing links between users.."
-thumbnail: "/images/workshop/default-thumbnail.png"
+title: ﻿This function manages complex logic related to the friendship system, including sending requests, accepting them, and managing links between users.
+slug: /workshop/4.4-backend/4.4.4-functions/4.4.4.4-friendrequest/
+description: Workshop content: ﻿This function manages complex logic related to the friendship system, including sending requests, accepting them, and managing links between users.
+thumbnail: /images/workshop/default-thumbnail.png
 date: 2026-05-03
 tags: ["workshop"]
-category: "workshop"
-author: "FCAJ Team"
-status: "published"
+category: workshop
+author: FCAJ Team
+status: published
 ---
 
 ## Overview
@@ -194,6 +194,7 @@ async function sendRequest(caller: CallerIdentity, friendCode: string) {
             friend_code: friendCode,
             friend_name: friendUser.display_name || friendUser.email || 'User',
             friend_avatar: friendUser.avatar_url || null,
+            status: 'pending',
             direction: 'sent',
             linked_id: receivedId,
             createdAt: now,
@@ -211,6 +212,7 @@ async function sendRequest(caller: CallerIdentity, friendCode: string) {
             friend_code: callerUser.friend_code || '',
             friend_name: callerUser.display_name || callerUser.email || 'User',
             friend_avatar: callerUser.avatar_url || null,
+            status: 'pending',
             direction: 'received',
             linked_id: sentId,
             createdAt: now,

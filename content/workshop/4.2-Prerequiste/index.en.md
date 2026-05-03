@@ -1,13 +1,13 @@
 ---
-title: "Access and Information Requirements"
-slug: "4-2-prerequisite"
-description: "Workshop content for Access and Information Requirements."
-thumbnail: "/images/workshop/default-thumbnail.png"
+title: Access and Information Requirements
+slug: /workshop/4.2-prerequiste/
+description: Workshop content: ﻿## Access and Information Requirements
+thumbnail: /images/workshop/default-thumbnail.png
 date: 2026-05-03
 tags: ["workshop"]
-category: "workshop"
-author: "FCAJ Team"
-status: "published"
+category: workshop
+author: FCAJ Team
+status: published
 ---
 
 ## Overview

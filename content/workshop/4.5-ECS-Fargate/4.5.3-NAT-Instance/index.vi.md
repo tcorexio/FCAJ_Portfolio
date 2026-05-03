@@ -1,13 +1,13 @@
 ---
-title: "1. Khởi tạo NAT Instance"
-slug: "4-5-ecs-fargate-4-5-3-nat-instance"
-description: "Workshop content for 1. Khởi tạo NAT Instance."
-thumbnail: "/images/workshop/default-thumbnail.png"
+title: 1. Khởi tạo NAT Instance
+slug: /workshop/4.5-ecs-fargate/4.5.3-nat-instance/
+description: Workshop content: ﻿## 1. Khởi tạo NAT Instance
+thumbnail: /images/workshop/default-thumbnail.png
 date: 2026-05-03
 tags: ["workshop"]
-category: "workshop"
-author: "FCAJ Team"
-status: "published"
+category: workshop
+author: FCAJ Team
+status: published
 ---
 
 ## Overview

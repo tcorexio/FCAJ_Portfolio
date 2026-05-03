@@ -1,13 +1,13 @@
 ---
-title: "Phần này hướng dẫn thiết lập ba thành phần hạ tầng quan trọng hỗ trợ cho cụm ECS Fargate: **S3 Bucket** để lưu trữ cache, **Secrets Manager** để quản lý API keys bảo mật, và **IAM Roles** để cấp quyền thực thi."
-slug: "4-5-ecs-fargate-4-5-2-infrastructure"
-description: "Workshop content for Phần này hướng dẫn thiết lập ba thành phần hạ tầng quan trọng hỗ trợ cho cụm ECS Fargate: **S3 Bucket** để lưu trữ cache, **Secrets Manager** để quản lý API keys bảo mật, và **IAM Roles** để cấp quyền thực thi.."
-thumbnail: "/images/workshop/default-thumbnail.png"
+title: ﻿Phần này hướng dẫn thiết lập ba thành phần hạ tầng quan trọng hỗ trợ cho cụm ECS Fargate: **S3 Bucket** để lưu trữ cache, **Secrets Manager** để quản lý API keys bảo mật, và **IAM Roles** để cấp quyền thực thi.
+slug: /workshop/4.5-ecs-fargate/4.5.2-infrastructure/
+description: Workshop content: ﻿Phần này hướng dẫn thiết lập ba thành phần hạ tầng quan trọng hỗ trợ cho cụm ECS Fargate: **S3 Bucket** để lưu trữ cache, **Secrets Manager** để quản lý API keys bảo mật, và **IAM Roles** để cấp quyền thực thi.
+thumbnail: /images/workshop/default-thumbnail.png
 date: 2026-05-03
 tags: ["workshop"]
-category: "workshop"
-author: "FCAJ Team"
-status: "published"
+category: workshop
+author: FCAJ Team
+status: published
 ---
 
 ## Overview

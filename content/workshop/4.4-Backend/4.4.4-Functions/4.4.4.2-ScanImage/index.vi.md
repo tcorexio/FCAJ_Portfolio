@@ -1,13 +1,13 @@
 ---
-title: "Hàm này đóng vai trò trung gian (Proxy) để gửi các yêu cầu phân tích hình ảnh từ AppSync tới cụm **ECS Fargate** thông qua Application Load Balancer."
-slug: "4-4-backend-4-4-4-functions-4-4-4-2-scanimage"
-description: "Workshop content for Hàm này đóng vai trò trung gian (Proxy) để gửi các yêu cầu phân tích hình ảnh từ AppSync tới cụm **ECS Fargate** thông qua Application Load Balancer.."
-thumbnail: "/images/workshop/default-thumbnail.png"
+title: ﻿Hàm này đóng vai trò trung gian (Proxy) để gửi các yêu cầu phân tích hình ảnh từ AppSync tới cụm **ECS Fargate** thông qua Application Load Balancer.
+slug: /workshop/4.4-backend/4.4.4-functions/4.4.4.2-scanimage/
+description: Workshop content: ﻿Hàm này đóng vai trò trung gian (Proxy) để gửi các yêu cầu phân tích hình ảnh từ AppSync tới cụm **ECS Fargate** thông qua Application Load Balancer.
+thumbnail: /images/workshop/default-thumbnail.png
 date: 2026-05-03
 tags: ["workshop"]
-category: "workshop"
-author: "FCAJ Team"
-status: "published"
+category: workshop
+author: FCAJ Team
+status: published
 ---
 
 ## Overview

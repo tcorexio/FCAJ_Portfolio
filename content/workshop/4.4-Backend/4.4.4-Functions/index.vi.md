@@ -1,13 +1,13 @@
 ---
-title: "Các hàm chính trong dự án"
-slug: "4-4-backend-4-4-4-functions"
-description: "Workshop content for Các hàm chính trong dự án."
-thumbnail: "/images/workshop/default-thumbnail.png"
+title: Các hàm chính trong dự án
+slug: /workshop/4.4-backend/4.4.4-functions/
+description: Workshop content: ﻿## Các hàm chính trong dự án
+thumbnail: /images/workshop/default-thumbnail.png
 date: 2026-05-03
 tags: ["workshop"]
-category: "workshop"
-author: "FCAJ Team"
-status: "published"
+category: workshop
+author: FCAJ Team
+status: published
 ---
 
 ## Overview

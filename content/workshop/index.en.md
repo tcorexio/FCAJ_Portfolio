@@ -1,13 +1,13 @@
 ---
-title: "NutriTrack — AWS Full-Stack Deployment Workshop"
-slug: "workshop"
-description: "Workshop content for NutriTrack — AWS Full-Stack Deployment Workshop."
-thumbnail: "/images/workshop/default-thumbnail.png"
+title: NutriTrack — AWS Full-Stack Deployment Workshop
+slug: /workshop
+description: Workshop content: ﻿# NutriTrack — AWS Full-Stack Deployment Workshop
+thumbnail: /images/workshop/default-thumbnail.png
 date: 2026-05-03
 tags: ["workshop"]
-category: "workshop"
-author: "FCAJ Team"
-status: "published"
+category: workshop
+author: FCAJ Team
+status: published
 ---
 
 ## Overview

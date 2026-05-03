@@ -1,13 +1,13 @@
 ---
-title: "Hàm này quản lý các logic phức tạp liên quan đến hệ thống bạn bè, bao gồm gửi yêu cầu, chấp nhận và quản lý liên kết giữa người dùng."
-slug: "4-4-backend-4-4-4-functions-4-4-4-4-friendrequest"
-description: "Workshop content for Hàm này quản lý các logic phức tạp liên quan đến hệ thống bạn bè, bao gồm gửi yêu cầu, chấp nhận và quản lý liên kết giữa người dùng.."
-thumbnail: "/images/workshop/default-thumbnail.png"
+title: ﻿Hàm này quản lý các logic phức tạp liên quan đến hệ thống bạn bè, bao gồm gửi yêu cầu, chấp nhận và quản lý liên kết giữa người dùng.
+slug: /workshop/4.4-backend/4.4.4-functions/4.4.4.4-friendrequest/
+description: Workshop content: ﻿Hàm này quản lý các logic phức tạp liên quan đến hệ thống bạn bè, bao gồm gửi yêu cầu, chấp nhận và quản lý liên kết giữa người dùng.
+thumbnail: /images/workshop/default-thumbnail.png
 date: 2026-05-03
 tags: ["workshop"]
-category: "workshop"
-author: "FCAJ Team"
-status: "published"
+category: workshop
+author: FCAJ Team
+status: published
 ---
 
 ## Overview
@@ -192,6 +192,7 @@ async function sendRequest(caller: CallerIdentity, friendCode: string) {
             friend_code: friendCode,
             friend_name: friendUser.display_name || friendUser.email || 'User',
             friend_avatar: friendUser.avatar_url || null,
+            status: 'pending',
             direction: 'sent',
             linked_id: receivedId,
             createdAt: now,
@@ -209,6 +210,7 @@ async function sendRequest(caller: CallerIdentity, friendCode: string) {
             friend_code: callerUser.friend_code || '',
             friend_name: callerUser.display_name || callerUser.email || 'User',
             friend_avatar: callerUser.avatar_url || null,
+            status: 'pending',
             direction: 'received',
             linked_id: sentId,
             createdAt: now,

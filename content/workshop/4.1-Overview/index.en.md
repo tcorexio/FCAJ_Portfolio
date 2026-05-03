@@ -1,6 +1,6 @@
 ---
-title: ﻿## Introduction
-slug: /workshop/4.1-overview
+title: Overview
+slug: /workshop/4.1-overview/
 description: Workshop content: ﻿## Introduction
 thumbnail: /images/workshop/default-thumbnail.png
 date: 2026-05-03

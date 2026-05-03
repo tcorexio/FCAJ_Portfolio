@@ -1,6 +1,6 @@
 ---
 title: ﻿This function manages complex logic related to the friendship system, including sending requests, accepting them, and managing links between users.
-slug: /workshop/4.4-backend/4.4.4-functions/4.4.4.4-friendrequest
+slug: /workshop/4.4-backend/4.4.4-functions/4.4.4.4-friendrequest/
 description: Workshop content: ﻿This function manages complex logic related to the friendship system, including sending requests, accepting them, and managing links between users.
 thumbnail: /images/workshop/default-thumbnail.png
 date: 2026-05-03

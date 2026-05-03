@@ -1,5 +1,5 @@
 ---
-title: ﻿# NutriTrack — Workshop Triển Khai Full-Stack Trên AWS
+title: NutriTrack — Workshop Triển Khai Full-Stack Trên AWS
 slug: /workshop
 description: Workshop content: ﻿# NutriTrack — Workshop Triển Khai Full-Stack Trên AWS
 thumbnail: /images/workshop/default-thumbnail.png

@@ -1,6 +1,6 @@
 ---
-title: ﻿# Authentication Layer
-slug: /workshop/4.4-backend/4.4.1-auth
+title: Authentication Layer
+slug: /workshop/4.4-backend/4.4.1-auth/
 description: Workshop content: ﻿# Authentication Layer
 thumbnail: /images/workshop/default-thumbnail.png
 date: 2026-05-03

@@ -1,6 +1,6 @@
 ---
 title: ﻿This function is automatically triggered every time an image is uploaded to S3 to resize it and create a thumbnail.
-slug: /workshop/4.4-backend/4.4.4-functions/4.4.4.5-resizeimage
+slug: /workshop/4.4-backend/4.4.4-functions/4.4.4.5-resizeimage/
 description: Workshop content: ﻿This function is automatically triggered every time an image is uploaded to S3 to resize it and create a thumbnail.
 thumbnail: /images/workshop/default-thumbnail.png
 date: 2026-05-03

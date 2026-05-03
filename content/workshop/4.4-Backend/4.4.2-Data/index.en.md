@@ -1,6 +1,6 @@
 ---
 title: ﻿Defining schema and access rules.
-slug: /workshop/4.4-backend/4.4.2-data
+slug: /workshop/4.4-backend/4.4.2-data/
 description: Workshop content: ﻿Defining schema and access rules.
 thumbnail: /images/workshop/default-thumbnail.png
 date: 2026-05-03

@@ -1,6 +1,6 @@
 ---
 title: The ECS Fargate layer runs a containerized FastAPI service in parallel with the Amplify serverless backend. It handles tasks not suitable for Lambda, such as long-running data processing, custom AI inference, or processes requiring persistent connections.
-slug: /workshop/4.5-ecs-fargate
+slug: /workshop/4.5-ecs-fargate/
 description: Workshop content: The ECS Fargate layer runs a containerized FastAPI service in parallel with the Amplify serverless backend. It handles tasks not suitable for Lambda, such as long-running data processing, custom AI inference, or processes requiring persistent connections.
 thumbnail: /images/workshop/default-thumbnail.png
 date: 2026-05-03

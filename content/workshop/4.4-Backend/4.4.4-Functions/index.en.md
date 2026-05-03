@@ -1,6 +1,6 @@
 ---
 title: ﻿Lambda functions orchestrate business logic and AI integrations. In Amplify Gen 2, each function is defined in its own directory within `amplify/functions/`.
-slug: /workshop/4.4-backend/4.4.4-functions
+slug: /workshop/4.4-backend/4.4.4-functions/
 description: Workshop content: ﻿Lambda functions orchestrate business logic and AI integrations. In Amplify Gen 2, each function is defined in its own directory within `amplify/functions/`.
 thumbnail: /images/workshop/default-thumbnail.png
 date: 2026-05-03

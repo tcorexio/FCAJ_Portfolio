@@ -1,6 +1,6 @@
 ---
 title: ﻿This section guides you through setting up three critical infrastructure components for the ECS Fargate cluster: **S3 Bucket** for caching, **Secrets Manager** for secure API key management, and **IAM Roles** for execution permissions.
-slug: /workshop/4.5-ecs-fargate/4.5.2-infrastructure
+slug: /workshop/4.5-ecs-fargate/4.5.2-infrastructure/
 description: Workshop content: ﻿This section guides you through setting up three critical infrastructure components for the ECS Fargate cluster: **S3 Bucket** for caching, **Secrets Manager** for secure API key management, and **IAM Roles** for execution permissions.
 thumbnail: /images/workshop/default-thumbnail.png
 date: 2026-05-03

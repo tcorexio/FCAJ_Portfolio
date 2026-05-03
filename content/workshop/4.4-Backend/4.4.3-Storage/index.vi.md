@@ -1,6 +1,6 @@
 ---
-title: ﻿# Lớp Lưu trữ — Amazon S3
-slug: /workshop/4.4-backend/4.4.3-storage
+title: Lớp Lưu trữ — Amazon S3
+slug: /workshop/4.4-backend/4.4.3-storage/
 description: Workshop content: ﻿# Lớp Lưu trữ — Amazon S3
 thumbnail: /images/workshop/default-thumbnail.png
 date: 2026-05-03

@@ -1,5 +1,5 @@
 ---
-title: 4.1-Overview
+title: Overview
 slug: /workshop/4.1-overview/
 description: Workshop content: 4.1-Overview
 thumbnail: /images/workshop/default-thumbnail.png

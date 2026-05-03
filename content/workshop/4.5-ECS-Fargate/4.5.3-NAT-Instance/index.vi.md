@@ -1,6 +1,6 @@
 ---
-title: ﻿## 1. Khởi tạo NAT Instance
-slug: /workshop/4.5-ecs-fargate/4.5.3-nat-instance
+title: 1. Khởi tạo NAT Instance
+slug: /workshop/4.5-ecs-fargate/4.5.3-nat-instance/
 description: Workshop content: ﻿## 1. Khởi tạo NAT Instance
 thumbnail: /images/workshop/default-thumbnail.png
 date: 2026-05-03

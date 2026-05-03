@@ -1,5 +1,5 @@
 ---
-title: ﻿# NutriTrack — AWS Full-Stack Deployment Workshop
+title: NutriTrack — AWS Full-Stack Deployment Workshop
 slug: /workshop
 description: Workshop content: ﻿# NutriTrack — AWS Full-Stack Deployment Workshop
 thumbnail: /images/workshop/default-thumbnail.png

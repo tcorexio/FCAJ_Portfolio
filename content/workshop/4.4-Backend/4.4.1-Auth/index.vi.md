@@ -1,6 +1,6 @@
 ---
-title: ﻿# Lớp Xác thực
-slug: /workshop/4.4-backend/4.4.1-auth
+title: Lớp Xác thực
+slug: /workshop/4.4-backend/4.4.1-auth/
 description: Workshop content: ﻿# Lớp Xác thực
 thumbnail: /images/workshop/default-thumbnail.png
 date: 2026-05-03

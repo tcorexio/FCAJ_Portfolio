@@ -1,6 +1,6 @@
 ---
-title: ﻿# CI/CD — Automated Deployment
-slug: /workshop/4.6-cicd
+title: CI/CD — Automated Deployment
+slug: /workshop/4.6-cicd/
 description: Workshop content: ﻿# CI/CD — Automated Deployment
 thumbnail: /images/workshop/default-thumbnail.png
 date: 2026-05-03

@@ -1,6 +1,6 @@
 ---
-title: ﻿## Access and Information Requirements
-slug: /workshop/4.2-prerequiste
+title: Access and Information Requirements
+slug: /workshop/4.2-prerequiste/
 description: Workshop content: ﻿## Access and Information Requirements
 thumbnail: /images/workshop/default-thumbnail.png
 date: 2026-05-03

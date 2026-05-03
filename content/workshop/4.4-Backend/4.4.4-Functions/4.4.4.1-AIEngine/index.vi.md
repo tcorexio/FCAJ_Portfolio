@@ -1,6 +1,6 @@
 ---
 title: ﻿Hàm này đóng vai trò là "bộ não" của ứng dụng, chịu trách nhiệm tương tác với **Amazon Bedrock** để phân tích ngôn ngữ tự nhiên và hình ảnh.
-slug: /workshop/4.4-backend/4.4.4-functions/4.4.4.1-aiengine
+slug: /workshop/4.4-backend/4.4.4-functions/4.4.4.1-aiengine/
 description: Workshop content: ﻿Hàm này đóng vai trò là "bộ não" của ứng dụng, chịu trách nhiệm tương tác với **Amazon Bedrock** để phân tích ngôn ngữ tự nhiên và hình ảnh.
 thumbnail: /images/workshop/default-thumbnail.png
 date: 2026-05-03

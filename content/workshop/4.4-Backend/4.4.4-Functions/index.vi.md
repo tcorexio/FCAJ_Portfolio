@@ -1,6 +1,6 @@
 ---
-title: ﻿## Các hàm chính trong dự án
-slug: /workshop/4.4-backend/4.4.4-functions
+title: Các hàm chính trong dự án
+slug: /workshop/4.4-backend/4.4.4-functions/
 description: Workshop content: ﻿## Các hàm chính trong dự án
 thumbnail: /images/workshop/default-thumbnail.png
 date: 2026-05-03

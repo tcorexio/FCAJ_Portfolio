@@ -1,3 +1,29 @@
+---
+title: "Lớp Lưu trữ — Amazon S3"
+slug: "4-4-backend-4-4-3-storage"
+description: "Workshop content for Lớp Lưu trữ — Amazon S3."
+thumbnail: "/images/workshop/default-thumbnail.png"
+date: 2026-05-03
+tags: ["workshop"]
+category: "workshop"
+author: "FCAJ Team"
+status: "published"
+---
+
+## Overview
+
+_TBD._
+
+## What You Will Learn
+
+_TBD._
+
+## Requirements
+
+_TBD._
+
+## Content
+
 ﻿# Lớp Lưu trữ — Amazon S3
 
 Quản lý hình ảnh và các tệp phương tiện.
@@ -39,3 +65,7 @@ export const storage = defineStorage({
 ---
 
 [Tiếp tục đến 4.4.4 Các hàm Logic (Functions)](../4.4.4-Functions/)
+
+## Conclusion
+
+_TBD._

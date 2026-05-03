@@ -1,3 +1,29 @@
+---
+title: "This function acts as the "brain" of the application, responsible for interacting with **Amazon Bedrock** to analyze natural language and images."
+slug: "4-4-backend-4-4-4-functions-4-4-4-1-aiengine"
+description: "Workshop content for This function acts as the "brain" of the application, responsible for interacting with **Amazon Bedrock** to analyze natural language and images.."
+thumbnail: "/images/workshop/default-thumbnail.png"
+date: 2026-05-03
+tags: ["workshop"]
+category: "workshop"
+author: "FCAJ Team"
+status: "published"
+---
+
+## Overview
+
+_TBD._
+
+## What You Will Learn
+
+_TBD._
+
+## Requirements
+
+_TBD._
+
+## Content
+
 ﻿This function acts as the "brain" of the application, responsible for interacting with **Amazon Bedrock** to analyze natural language and images.
 
 ### 1. Install Libraries (npm install)
@@ -644,3 +670,7 @@ export const handler = async (event: any) => {
 ---
 
 [Back to functions list](../)
+
+## Conclusion
+
+_TBD._

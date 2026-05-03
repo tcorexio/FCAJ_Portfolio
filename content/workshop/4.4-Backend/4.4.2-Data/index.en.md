@@ -1,3 +1,29 @@
+---
+title: "Defining schema and access rules."
+slug: "4-4-backend-4-4-2-data"
+description: "Workshop content for Defining schema and access rules.."
+thumbnail: "/images/workshop/default-thumbnail.png"
+date: 2026-05-03
+tags: ["workshop"]
+category: "workshop"
+author: "FCAJ Team"
+status: "published"
+---
+
+## Overview
+
+_TBD._
+
+## What You Will Learn
+
+_TBD._
+
+## Requirements
+
+_TBD._
+
+## Content
+
 ﻿Defining schema and access rules.
 
 ## `data/resource.ts`
@@ -153,7 +179,6 @@ const schema = a.schema({
 
   FoodLog: a
     .model({
-      date: a.string().required(),
       timestamp: a.datetime().required(),
       food_id: a.string(),
       food_name: a.string().required(),
@@ -185,7 +210,6 @@ const schema = a.schema({
       unit: a.string(),
       added_date: a.datetime(),
       expiry_date: a.string(),
-      category: a.enum(['meat', 'vegetable', 'fruit', 'dairy', 'pantry', 'other']),
       emoji: a.string(),
       calories: a.float(),
       protein_g: a.float(),
@@ -205,7 +229,6 @@ const schema = a.schema({
       friend_code: a.string(),
       friend_name: a.string(),
       friend_avatar: a.string(),
-      status: a.enum(['pending', 'accepted', 'blocked']),
       direction: a.enum(['sent', 'received']),
       linked_id: a.string(),
     })
@@ -305,3 +328,7 @@ export const data = defineData({
 ---
 
 [Continue to 4.4.3 Storage Layer (Storage)](../4.4.3-Storage/)
+
+## Conclusion
+
+_TBD._

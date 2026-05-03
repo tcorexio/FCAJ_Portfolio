@@ -1,3 +1,29 @@
+---
+title: "CI/CD — Automated Deployment"
+slug: "4-6-cicd"
+description: "Workshop content for CI/CD — Automated Deployment."
+thumbnail: "/images/workshop/default-thumbnail.png"
+date: 2026-05-03
+tags: ["workshop"]
+category: "workshop"
+author: "FCAJ Team"
+status: "published"
+---
+
+## Overview
+
+_TBD._
+
+## What You Will Learn
+
+_TBD._
+
+## Requirements
+
+_TBD._
+
+## Content
+
 ﻿# CI/CD — Automated Deployment
 
 In a production-grade AI project, CI/CD automation ensures that your Cloud infrastructure remains perfectly synchronized with your source code. We will use **AWS Amplify Console** connected directly to your GitHub repository.
@@ -63,7 +89,6 @@ frontend:
   customRules:
     - source: </^[^.]+$|\.(?!(css|gif|ico|jpg|js|png|txt|svg|woff|woff2|ttf|map|json|webp)$)([^.]+$)/>
       target: /index.html
-      status: '200'
   customHeaders:
     - pattern: "**/*.html"
       headers:
@@ -124,3 +149,7 @@ npx ampx generate outputs --branch <branch-name> --app-id <your-app-id>
 ---
 
 [Continue to 4.7 Resource Cleanup](../4.7-Cleanup/)
+
+## Conclusion
+
+_TBD._

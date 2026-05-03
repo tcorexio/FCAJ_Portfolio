@@ -1,3 +1,29 @@
+---
+title: "This function manages complex logic related to the friendship system, including sending requests, accepting them, and managing links between users."
+slug: "4-4-backend-4-4-4-functions-4-4-4-4-friendrequest"
+description: "Workshop content for This function manages complex logic related to the friendship system, including sending requests, accepting them, and managing links between users.."
+thumbnail: "/images/workshop/default-thumbnail.png"
+date: 2026-05-03
+tags: ["workshop"]
+category: "workshop"
+author: "FCAJ Team"
+status: "published"
+---
+
+## Overview
+
+_TBD._
+
+## What You Will Learn
+
+_TBD._
+
+## Requirements
+
+_TBD._
+
+## Content
+
 ﻿This function manages complex logic related to the friendship system, including sending requests, accepting them, and managing links between users.
 
 ### 1. Install Libraries (npm install)
@@ -168,7 +194,6 @@ async function sendRequest(caller: CallerIdentity, friendCode: string) {
             friend_code: friendCode,
             friend_name: friendUser.display_name || friendUser.email || 'User',
             friend_avatar: friendUser.avatar_url || null,
-            status: 'pending',
             direction: 'sent',
             linked_id: receivedId,
             createdAt: now,
@@ -186,7 +211,6 @@ async function sendRequest(caller: CallerIdentity, friendCode: string) {
             friend_code: callerUser.friend_code || '',
             friend_name: callerUser.display_name || callerUser.email || 'User',
             friend_avatar: callerUser.avatar_url || null,
-            status: 'pending',
             direction: 'received',
             linked_id: sentId,
             createdAt: now,
@@ -407,3 +431,7 @@ async function countPendingRequests(tableName: string, callerOwner: string) {
 ---
 
 [Back to functions list](../)
+
+## Conclusion
+
+_TBD._

@@ -1,3 +1,29 @@
+---
+title: "Overall Architecture"
+slug: "4-1-overview"
+description: "Workshop content for Overall Architecture."
+thumbnail: "/images/workshop/default-thumbnail.png"
+date: 2026-05-03
+tags: ["workshop"]
+category: "workshop"
+author: "FCAJ Team"
+status: "published"
+---
+
+## Overview
+
+_TBD._
+
+## What You Will Learn
+
+_TBD._
+
+## Requirements
+
+_TBD._
+
+## Content
+
 ﻿## Introduction
 This workshop is designed to guide you through the process of building and deploying **NutriTrack** — a modern nutrition tracking platform that combines the power of **AWS Amplify Gen 2**, **Amazon Bedrock**, and **Amazon ECS Fargate**. Based 100% on a real-world production codebase, this workshop will help you master serverless infrastructure and explore how to optimally integrate high-performance AI tasks into practical applications.
 
@@ -34,3 +60,7 @@ Here are the key components you will deploy throughout the Workshop:
 ---
 
 [Continue to 4.2 Prerequisites](../4.2-Prerequiste/)
+
+## Conclusion
+
+_TBD._

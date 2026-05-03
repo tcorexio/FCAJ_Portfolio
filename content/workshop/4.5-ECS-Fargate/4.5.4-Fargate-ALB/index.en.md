@@ -1,3 +1,29 @@
+---
+title: "This is the final step to complete the system: Build the Docker image, push it to a registry, and set up the ECS Fargate cluster and Application Load Balancer (ALB) to handle internet traffic."
+slug: "4-5-ecs-fargate-4-5-4-fargate-alb"
+description: "Workshop content for This is the final step to complete the system: Build the Docker image, push it to a registry, and set up the ECS Fargate cluster and Application Load Balancer (ALB) to handle internet traffic.."
+thumbnail: "/images/workshop/default-thumbnail.png"
+date: 2026-05-03
+tags: ["workshop"]
+category: "workshop"
+author: "FCAJ Team"
+status: "published"
+---
+
+## Overview
+
+_TBD._
+
+## What You Will Learn
+
+_TBD._
+
+## Requirements
+
+_TBD._
+
+## Content
+
 ﻿This is the final step to complete the system: Build the Docker image, push it to a registry, and set up the ECS Fargate cluster and Application Load Balancer (ALB) to handle internet traffic.
 
 ## 1. Build & Push Docker Image
@@ -85,3 +111,7 @@ Your system is now complete:
 ---
 
 [Continue to 4.6 CI/CD](../../4.6-CICD/)
+
+## Conclusion
+
+_TBD._

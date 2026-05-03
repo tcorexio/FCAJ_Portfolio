@@ -1,3 +1,29 @@
+---
+title: Authentication Layer
+slug: /workshop/4.4-backend/4.4.1-auth/
+description: Workshop content: ﻿# Authentication Layer
+thumbnail: /images/workshop/default-thumbnail.png
+date: 2026-05-03
+tags: ["workshop"]
+category: workshop
+author: FCAJ Team
+status: published
+---
+
+## Overview
+
+_TBD._
+
+## What You Will Learn
+
+_TBD._
+
+## Requirements
+
+_TBD._
+
+## Content
+
 ﻿# Authentication Layer 
 
 Using Amazon Cognito for identity management.
@@ -59,3 +85,7 @@ The system will prompt you to enter values ​​for each variable (taken from t
 ---
 
 [Continue to 4.4.2 Data Layer (Data)](../4.4.2-Data/)
+
+## Conclusion
+
+_TBD._

@@ -1,3 +1,29 @@
+---
+title: ﻿Hàm này đóng vai trò là "bộ não" của ứng dụng, chịu trách nhiệm tương tác với **Amazon Bedrock** để phân tích ngôn ngữ tự nhiên và hình ảnh.
+slug: /workshop/4.4-backend/4.4.4-functions/4.4.4.1-aiengine/
+description: Workshop content: ﻿Hàm này đóng vai trò là "bộ não" của ứng dụng, chịu trách nhiệm tương tác với **Amazon Bedrock** để phân tích ngôn ngữ tự nhiên và hình ảnh.
+thumbnail: /images/workshop/default-thumbnail.png
+date: 2026-05-03
+tags: ["workshop"]
+category: workshop
+author: FCAJ Team
+status: published
+---
+
+## Overview
+
+_TBD._
+
+## What You Will Learn
+
+_TBD._
+
+## Requirements
+
+_TBD._
+
+## Content
+
 ﻿Hàm này đóng vai trò là "bộ não" của ứng dụng, chịu trách nhiệm tương tác với **Amazon Bedrock** để phân tích ngôn ngữ tự nhiên và hình ảnh.
 
 ### 1. Cài đặt thư viện (npm install)
@@ -650,3 +676,7 @@ export const handler = async (event: any) => {
 ---
 
 [Quay lại danh sách các hàm](../)
+
+## Conclusion
+
+_TBD._

@@ -1,3 +1,29 @@
+---
+title: ﻿After completing the workshop, cleaning up your resources is a critical step to avoid unexpected AWS charges. Some resources, such as NAT Instances and ALBs, incur hourly costs even when not processing any traffic.
+slug: /workshop/4.7-cleanup/
+description: Workshop content: ﻿After completing the workshop, cleaning up your resources is a critical step to avoid unexpected AWS charges. Some resources, such as NAT Instances and ALBs, incur hourly costs even when not processing any traffic.
+thumbnail: /images/workshop/default-thumbnail.png
+date: 2026-05-03
+tags: ["workshop"]
+category: workshop
+author: FCAJ Team
+status: published
+---
+
+## Overview
+
+_TBD._
+
+## What You Will Learn
+
+_TBD._
+
+## Requirements
+
+_TBD._
+
+## Content
+
 ﻿After completing the workshop, cleaning up your resources is a critical step to avoid unexpected AWS charges. Some resources, such as NAT Instances and ALBs, incur hourly costs even when not processing any traffic.
 
 > [!IMPORTANT]
@@ -36,3 +62,7 @@ To avoid "Resource in use" errors, you should perform the deletion in order from
 Congratulations on successfully completing the NutriTrack deployment workshop on AWS! We hope the knowledge of Hybrid Architecture (Serverless + Container) and networking cost optimization will be valuable for your future real-world projects.
 
 [Back to Homepage](../../)
+
+## Conclusion
+
+_TBD._

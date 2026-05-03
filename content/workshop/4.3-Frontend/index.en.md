@@ -1,3 +1,29 @@
+---
+title: ReactNative & Expo
+slug: /workshop/4.3-frontend/
+description: Workshop content: ﻿## ReactNative & Expo
+thumbnail: /images/workshop/default-thumbnail.png
+date: 2026-05-03
+tags: ["workshop"]
+category: workshop
+author: FCAJ Team
+status: published
+---
+
+## Overview
+
+_TBD._
+
+## What You Will Learn
+
+_TBD._
+
+## Requirements
+
+_TBD._
+
+## Content
+
 ﻿## ReactNative & Expo
 
 To facilitate hands-on practice, the Frontend portion has been prepared as a complete skeleton code including UI and state management (store). You will proceed to download the source code and prepare the environment.
@@ -37,3 +63,7 @@ The screen will display a backend carrier error or Config error — this is comp
 ---
 
 [Continue to 4.4 Backend Setup](../4.4-Backend/)
+
+## Conclusion
+
+_TBD._

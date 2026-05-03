@@ -1,3 +1,29 @@
+---
+title: NutriTrack — AWS Full-Stack Deployment Workshop
+slug: /workshop
+description: Workshop content: ﻿# NutriTrack — AWS Full-Stack Deployment Workshop
+thumbnail: /images/workshop/default-thumbnail.png
+date: 2026-05-03
+tags: ["workshop"]
+category: workshop
+author: FCAJ Team
+status: published
+---
+
+## Overview
+
+_TBD._
+
+## What You Will Learn
+
+_TBD._
+
+## Requirements
+
+_TBD._
+
+## Content
+
 ﻿# NutriTrack — AWS Full-Stack Deployment Workshop
 This guide provides a complete step-by-step process for deploying **NutriTrack**—an automated AI nutrition tracking and image analysis system on AWS. The workshop leverages the **AWS Amplify Gen 2** governance framework to establish a core serverless infrastructure including **Amazon Cognito** (Authentication), **AWS AppSync** & **DynamoDB** (Data), and **Amazon S3** (Storage). The system is extended with a high-performance computing layer using **Amazon ECS Fargate** to handle computer vision tasks and in-depth nutrition analysis via **Amazon Bedrock**, seamlessly connecting to the **React Native** mobile application. The entire solution incorporates an automated **CI/CD** process, optimizing deployment from development to actual operation in the cloud environment.
 
@@ -36,3 +62,7 @@ The following table provides an estimated cost for maintaining the NutriTrack sy
 | **Total**            | **$254.02**  | **$2.94**    |
 
 ---
+
+## Conclusion
+
+_TBD._

@@ -1,3 +1,29 @@
+---
+title: ﻿Hàm này xử lý việc tính toán các chỉ số dinh dưỡng (Macros) và lưu trữ chúng trực tiếp vào bảng **DynamoDB**.
+slug: /workshop/4.4-backend/4.4.4-functions/4.4.4.3-processnutrition/
+description: Workshop content: ﻿Hàm này xử lý việc tính toán các chỉ số dinh dưỡng (Macros) và lưu trữ chúng trực tiếp vào bảng **DynamoDB**.
+thumbnail: /images/workshop/default-thumbnail.png
+date: 2026-05-03
+tags: ["workshop"]
+category: workshop
+author: FCAJ Team
+status: published
+---
+
+## Overview
+
+_TBD._
+
+## What You Will Learn
+
+_TBD._
+
+## Requirements
+
+_TBD._
+
+## Content
+
 ﻿Hàm này xử lý việc tính toán các chỉ số dinh dưỡng (Macros) và lưu trữ chúng trực tiếp vào bảng **DynamoDB**.
 
 ### 1. Cài đặt thư viện (npm install)
@@ -209,3 +235,7 @@ export const handler: Schema['processNutrition']['functionHandler'] = async (eve
 ---
 
 [Quay lại danh sách các hàm](../)
+
+## Conclusion
+
+_TBD._

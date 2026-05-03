@@ -1,3 +1,29 @@
+---
+title: ﻿We will initialize the data heart of NutriTrack using TypeScript source code.
+slug: /workshop/4.4-backend/
+description: Workshop content: ﻿We will initialize the data heart of NutriTrack using TypeScript source code.
+thumbnail: /images/workshop/default-thumbnail.png
+date: 2026-05-03
+tags: ["workshop"]
+category: workshop
+author: FCAJ Team
+status: published
+---
+
+## Overview
+
+_TBD._
+
+## What You Will Learn
+
+_TBD._
+
+## Requirements
+
+_TBD._
+
+## Content
+
 ﻿We will initialize the data heart of NutriTrack using TypeScript source code.
 
 ## 1. Initialize Backend Directory
@@ -42,3 +68,7 @@ Now, we will define the core configuration files located within the `amplify/` d
 ---
 
 [Continue to 4.5 ECS Container Layer](../4.5-ECS-Fargate/)
+
+## Conclusion
+
+_TBD._

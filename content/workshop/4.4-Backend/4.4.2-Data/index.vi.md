@@ -1,3 +1,29 @@
+---
+title: AppSync & DynamoDB
+slug: /workshop/4.4-backend/4.4.2-data/
+description: Workshop content: ﻿# AppSync & DynamoDB
+thumbnail: /images/workshop/default-thumbnail.png
+date: 2026-05-03
+tags: ["workshop"]
+category: workshop
+author: FCAJ Team
+status: published
+---
+
+## Overview
+
+_TBD._
+
+## What You Will Learn
+
+_TBD._
+
+## Requirements
+
+_TBD._
+
+## Content
+
 ﻿# AppSync & DynamoDB
 
 Định nghĩa lược đồ dữ liệu (Schema) và các quy tắc truy cập.
@@ -310,3 +336,7 @@ export const data = defineData({
 ---
 
 [Tiếp tục đến 4.4.3 Lớp Lưu trữ (Storage)](../4.4.3-Storage/)
+
+## Conclusion
+
+_TBD._

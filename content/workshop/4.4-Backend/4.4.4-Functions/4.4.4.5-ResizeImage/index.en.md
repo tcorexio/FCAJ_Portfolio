@@ -1,3 +1,29 @@
+---
+title: ﻿This function is automatically triggered every time an image is uploaded to S3 to resize it and create a thumbnail.
+slug: /workshop/4.4-backend/4.4.4-functions/4.4.4.5-resizeimage/
+description: Workshop content: ﻿This function is automatically triggered every time an image is uploaded to S3 to resize it and create a thumbnail.
+thumbnail: /images/workshop/default-thumbnail.png
+date: 2026-05-03
+tags: ["workshop"]
+category: workshop
+author: FCAJ Team
+status: published
+---
+
+## Overview
+
+_TBD._
+
+## What You Will Learn
+
+_TBD._
+
+## Requirements
+
+_TBD._
+
+## Content
+
 ﻿This function is automatically triggered every time an image is uploaded to S3 to resize it and create a thumbnail.
 
 ### 1. Install Libraries (npm install)
@@ -115,3 +141,7 @@ export const handler: S3Handler = async (event) => {
 ---
 
 [Back to functions list](../)
+
+## Conclusion
+
+_TBD._

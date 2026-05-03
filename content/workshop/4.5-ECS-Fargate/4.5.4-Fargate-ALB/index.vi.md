@@ -1,14 +1,3 @@
----
-title: ﻿Đây là bước cuối cùng để hoàn thiện hệ thống: Build Docker image, đẩy lên registry, và thiết lập cụm ECS Fargate cùng Application Load Balancer (ALB) để phục vụ các yêu cầu từ internet.
-slug: /workshop/4.5-ecs-fargate/4.5.4-fargate-alb/
-description: Workshop content: ﻿Đây là bước cuối cùng để hoàn thiện hệ thống: Build Docker image, đẩy lên registry, và thiết lập cụm ECS Fargate cùng Application Load Balancer (ALB) để phục vụ các yêu cầu từ internet.
-thumbnail: /images/workshop/default-thumbnail.png
-date: 2026-05-03
-tags: ["workshop"]
-category: workshop
-author: FCAJ Team
-status: published
----
 
 ## Overview
 

@@ -1,14 +1,3 @@
----
-title: CI/CD — Triển khai Tự động hóa
-slug: /workshop/4.6-cicd/
-description: Workshop content: ﻿# CI/CD — Triển khai Tự động hóa
-thumbnail: /images/workshop/default-thumbnail.png
-date: 2026-05-03
-tags: ["workshop"]
-category: workshop
-author: FCAJ Team
-status: published
----
 
 ## Overview
 

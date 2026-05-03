@@ -1,14 +1,3 @@
----
-title: Tầng ECS Fargate chạy một FastAPI service được container hóa song song với backend Amplify serverless. Nó xử lý các tác vụ không phù hợp với Lambda như: xử lý dữ liệu kéo dài, suy luận AI tùy chỉnh, hoặc các tiến trình cần duy trì kết nối liên tục.
-slug: /workshop/4.5-ecs-fargate/
-description: Workshop content: Tầng ECS Fargate chạy một FastAPI service được container hóa song song với backend Amplify serverless. Nó xử lý các tác vụ không phù hợp với Lambda như: xử lý dữ liệu kéo dài, suy luận AI tùy chỉnh, hoặc các tiến trình cần duy trì kết nối liên tục.
-thumbnail: /images/workshop/default-thumbnail.png
-date: 2026-05-03
-tags: ["workshop"]
-category: workshop
-author: FCAJ Team
-status: published
----
 
 ## Overview
 

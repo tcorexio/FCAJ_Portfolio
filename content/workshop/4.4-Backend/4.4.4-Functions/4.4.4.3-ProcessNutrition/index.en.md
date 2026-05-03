@@ -1,14 +1,4 @@
----
-title: ﻿This function handles the calculation of nutritional macros and stores them directly into the **DynamoDB** table.
-slug: /workshop/4.4-backend/4.4.4-functions/4.4.4.3-processnutrition/
-description: Workshop content: ﻿This function handles the calculation of nutritional macros and stores them directly into the **DynamoDB** table.
-thumbnail: /images/workshop/default-thumbnail.png
-date: 2026-05-03
-tags: ["workshop"]
-category: workshop
-author: FCAJ Team
-status: published
----
+
 
 ## Overview
 

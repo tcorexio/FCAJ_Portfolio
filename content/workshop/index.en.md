@@ -1,31 +1,39 @@
 ---
-title: NutriTrack — AWS Full-Stack Deployment Workshop
-slug: /workshop
-description: Workshop content: ﻿# NutriTrack — AWS Full-Stack Deployment Workshop
-thumbnail: /images/workshop/default-thumbnail.png
-date: 2026-05-03
-tags: ["workshop"]
-category: workshop
-author: FCAJ Team
-status: published
+title: "NutriTrack — AWS Full-Stack Deployment Workshop"
+slug: "/workshop"
+description: "This guide provides a complete step-by-step process for deploying NutriTrack—an automated AI nutrition tracking and image analysis system on AWS."
+thumbnail: "/images/workshop/default-thumbnail.png"
+date: "2026-05-03"
+tags: ["AWS", "NutriTrack", "Full-Stack", "Deployment", "Workshop"]
+category: "Workshop"
+author: "FCAJ Team"
+status: "published"
 ---
 
 ## Overview
 
-_TBD._
+This guide provides a complete step-by-step process for deploying **NutriTrack**—an automated AI nutrition tracking and image analysis system on AWS. The workshop leverages the **AWS Amplify Gen 2** governance framework to establish a core serverless infrastructure including **Amazon Cognito** (Authentication), **AWS AppSync** & **DynamoDB** (Data), and **Amazon S3** (Storage). The system is extended with a high-performance computing layer using **Amazon ECS Fargate** to handle computer vision tasks and in-depth nutrition analysis via **Amazon Bedrock**, seamlessly connecting to the **React Native** mobile application. The entire solution incorporates an automated **CI/CD** process, optimizing deployment from development to actual operation in the cloud environment.
 
 ## What You Will Learn
 
-_TBD._
+- Design and deploy a full-stack AWS application using modern cloud services
+- Implement serverless architecture with AWS Amplify Gen 2
+- Set up authentication with Amazon Cognito
+- Build GraphQL APIs with AWS AppSync and DynamoDB
+- Deploy containerized applications with ECS Fargate
+- Integrate AI services using Amazon Bedrock
+- Establish CI/CD pipelines for automated deployment
+- Optimize costs and manage cloud resources effectively
 
 ## Requirements
 
-_TBD._
+- AWS Account with administrator access
+- Basic knowledge of AWS services and cloud computing
+- Experience with React Native development
+- Understanding of containerization and Docker
+- Familiarity with CI/CD concepts
 
 ## Content
-
-﻿# NutriTrack — AWS Full-Stack Deployment Workshop
-This guide provides a complete step-by-step process for deploying **NutriTrack**—an automated AI nutrition tracking and image analysis system on AWS. The workshop leverages the **AWS Amplify Gen 2** governance framework to establish a core serverless infrastructure including **Amazon Cognito** (Authentication), **AWS AppSync** & **DynamoDB** (Data), and **Amazon S3** (Storage). The system is extended with a high-performance computing layer using **Amazon ECS Fargate** to handle computer vision tasks and in-depth nutrition analysis via **Amazon Bedrock**, seamlessly connecting to the **React Native** mobile application. The entire solution incorporates an automated **CI/CD** process, optimizing deployment from development to actual operation in the cloud environment.
 
 ## Workshop Contents
 
@@ -61,8 +69,6 @@ The following table provides an estimated cost for maintaining the NutriTrack sy
 | AWS Secrets Manager  | $1.20        | $0           |
 | **Total**            | **$254.02**  | **$2.94**    |
 
----
-
 ## Conclusion
 
-_TBD._
+By completing this workshop, you will have gained hands-on experience in building and deploying a complete full-stack application on AWS. You'll understand how to integrate various AWS services to create a scalable, secure, and cost-effective cloud solution that leverages modern technologies like serverless computing, containerization, and AI services.

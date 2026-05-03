@@ -1,14 +1,4 @@
----
-title: ﻿This function acts as the "brain" of the application, responsible for interacting with **Amazon Bedrock** to analyze natural language and images.
-slug: /workshop/4.4-backend/4.4.4-functions/4.4.4.1-aiengine/
-description: Workshop content: ﻿This function acts as the "brain" of the application, responsible for interacting with **Amazon Bedrock** to analyze natural language and images.
-thumbnail: /images/workshop/default-thumbnail.png
-date: 2026-05-03
-tags: ["workshop"]
-category: workshop
-author: FCAJ Team
-status: published
----
+
 
 ## Overview
 

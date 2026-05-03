@@ -1,14 +1,4 @@
----
-title: ReactNative & Expo
-slug: /workshop/4.3-frontend/
-description: Workshop content: ﻿## ReactNative & Expo
-thumbnail: /images/workshop/default-thumbnail.png
-date: 2026-05-03
-tags: ["workshop"]
-category: workshop
-author: FCAJ Team
-status: published
----
+
 
 ## Overview
 

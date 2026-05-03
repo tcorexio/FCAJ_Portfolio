@@ -1,14 +1,4 @@
----
-title: ﻿Hàm này quản lý các logic phức tạp liên quan đến hệ thống bạn bè, bao gồm gửi yêu cầu, chấp nhận và quản lý liên kết giữa người dùng.
-slug: /workshop/4.4-backend/4.4.4-functions/4.4.4.4-friendrequest/
-description: Workshop content: ﻿Hàm này quản lý các logic phức tạp liên quan đến hệ thống bạn bè, bao gồm gửi yêu cầu, chấp nhận và quản lý liên kết giữa người dùng.
-thumbnail: /images/workshop/default-thumbnail.png
-date: 2026-05-03
-tags: ["workshop"]
-category: workshop
-author: FCAJ Team
-status: published
----
+
 
 ## Overview
 

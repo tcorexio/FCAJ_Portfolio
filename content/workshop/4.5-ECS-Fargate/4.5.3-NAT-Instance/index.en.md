@@ -1,14 +1,4 @@
----
-title: ﻿In an AWS environment, resources in a Private Subnet (like ECS Tasks) typically need a NAT Gateway to access the internet. However, NAT Gateway has a high fixed cost (~$32/mo). In this workshop, we use a **NAT Instance** to save up to 70% in costs.
-slug: /workshop/4.5-ecs-fargate/4.5.3-nat-instance/
-description: Workshop content: ﻿In an AWS environment, resources in a Private Subnet (like ECS Tasks) typically need a NAT Gateway to access the internet. However, NAT Gateway has a high fixed cost (~$32/mo). In this workshop, we use a **NAT Instance** to save up to 70% in costs.
-thumbnail: /images/workshop/default-thumbnail.png
-date: 2026-05-03
-tags: ["workshop"]
-category: workshop
-author: FCAJ Team
-status: published
----
+
 
 ## Overview
 

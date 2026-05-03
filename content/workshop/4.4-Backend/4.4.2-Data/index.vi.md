@@ -1,14 +1,4 @@
----
-title: AppSync & DynamoDB
-slug: /workshop/4.4-backend/4.4.2-data/
-description: Workshop content: ﻿# AppSync & DynamoDB
-thumbnail: /images/workshop/default-thumbnail.png
-date: 2026-05-03
-tags: ["workshop"]
-category: workshop
-author: FCAJ Team
-status: published
----
+
 
 ## Overview
 

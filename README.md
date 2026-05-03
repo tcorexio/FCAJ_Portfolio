@@ -119,7 +119,6 @@ npm run deploy
 |:-:|:-|
 | **Name** | Nguyễn Thành Trọng |
 | **Position** | FCAJ Cloud Intern |
-| **Team** | NeuraX |
 | **Company** | Amazon Web Services Vietnam |
 | **Program** | First Cloud AI Journey (FCAJ) |
 | **Duration** | 09/03/2026 - 03/05/2026 |

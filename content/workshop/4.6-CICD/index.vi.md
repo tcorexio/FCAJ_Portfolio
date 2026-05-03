@@ -1,3 +1,29 @@
+---
+title: ﻿# CI/CD — Triển khai Tự động hóa
+slug: /workshop/4.6-cicd
+description: Workshop content: ﻿# CI/CD — Triển khai Tự động hóa
+thumbnail: /images/workshop/default-thumbnail.png
+date: 2026-05-03
+tags: ["workshop"]
+category: workshop
+author: FCAJ Team
+status: published
+---
+
+## Overview
+
+_TBD._
+
+## What You Will Learn
+
+_TBD._
+
+## Requirements
+
+_TBD._
+
+## Content
+
 ﻿# CI/CD — Triển khai Tự động hóa
 
 Trong một dự án AI Production, việc tự động hóa (CI/CD) không chỉ giúp tiết kiệm thời gian mà còn đảm bảo hạ tầng Cloud luôn đồng bộ với mã nguồn. Chúng ta sẽ sử dụng **AWS Amplify Console** kết nối trực tiếp với Repo GitHub.
@@ -124,3 +150,7 @@ npx ampx generate outputs --branch <tên-nhánh> --app-id <app-id-của-bạn>
 ---
 
 [Tiếp tục đến 4.7 Dọn dẹp](../4.7-Cleanup/)
+
+## Conclusion
+
+_TBD._

@@ -1,3 +1,29 @@
+---
+title: ﻿## 1. Khởi tạo NAT Instance
+slug: /workshop/4.5-ecs-fargate/4.5.3-nat-instance
+description: Workshop content: ﻿## 1. Khởi tạo NAT Instance
+thumbnail: /images/workshop/default-thumbnail.png
+date: 2026-05-03
+tags: ["workshop"]
+category: workshop
+author: FCAJ Team
+status: published
+---
+
+## Overview
+
+_TBD._
+
+## What You Will Learn
+
+_TBD._
+
+## Requirements
+
+_TBD._
+
+## Content
+
 ﻿## 1. Khởi tạo NAT Instance
 
 Chúng ta sẽ sử dụng instance type `t4g.nano` (kiến trúc ARM Graviton) để tối ưu chi phí và hiệu năng.
@@ -55,3 +81,7 @@ ASG sẽ tự động phát hiện nếu instance bị lỗi và khởi tạo m�
 
 Hạ tầng mạng và NAT đã sẵn sàng. Bước cuối cùng là triển khai ứng dụng của chúng ta:
 - [4.5.4 Triển khai Fargate & ALB](../4.5.4-Fargate-ALB/)
+
+## Conclusion
+
+_TBD._

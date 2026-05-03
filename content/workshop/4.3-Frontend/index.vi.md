@@ -1,3 +1,29 @@
+---
+title: ﻿## ReactNative & Expo
+slug: /workshop/4.3-frontend
+description: Workshop content: ﻿## ReactNative & Expo
+thumbnail: /images/workshop/default-thumbnail.png
+date: 2026-05-03
+tags: ["workshop"]
+category: workshop
+author: FCAJ Team
+status: published
+---
+
+## Overview
+
+_TBD._
+
+## What You Will Learn
+
+_TBD._
+
+## Requirements
+
+_TBD._
+
+## Content
+
 ﻿## ReactNative & Expo
 
 Để thuận tiện cho việc thực hành, phần Frontend đã được chuẩn bị sẵn dưới dạng skeleton code hoàn chỉnh về giao diện và store. Bạn sẽ tiến hành tải mã nguồn và chuẩn bị môi trường chạy.
@@ -67,3 +93,7 @@ Màn hình sẽ hiển thị thông báo lỗi kết nối Backend hoặc lỗi 
 ---
 
 [Tiếp tục đến 4.4 Thiết lập Backend](../4.4-Backend/)
+
+## Conclusion
+
+_TBD._

@@ -1,3 +1,29 @@
+---
+title: ﻿# Lớp Xác thực
+slug: /workshop/4.4-backend/4.4.1-auth
+description: Workshop content: ﻿# Lớp Xác thực
+thumbnail: /images/workshop/default-thumbnail.png
+date: 2026-05-03
+tags: ["workshop"]
+category: workshop
+author: FCAJ Team
+status: published
+---
+
+## Overview
+
+_TBD._
+
+## What You Will Learn
+
+_TBD._
+
+## Requirements
+
+_TBD._
+
+## Content
+
 ﻿# Lớp Xác thực 
 
 Sử dụng Amazon Cognito để quản lý danh tính người dùng.
@@ -64,3 +90,7 @@ Hệ thống sẽ yêu cầu bạn nhập giá trị cho từng biến (lấy t�
 ---
 
 [Tiếp tục đến 4.4.2 Lớp Dữ liệu (Data)](../4.4.2-Data/)
+
+## Conclusion
+
+_TBD._

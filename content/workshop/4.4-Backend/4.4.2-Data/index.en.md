@@ -1,3 +1,29 @@
+---
+title: ﻿Defining schema and access rules.
+slug: /workshop/4.4-backend/4.4.2-data
+description: Workshop content: ﻿Defining schema and access rules.
+thumbnail: /images/workshop/default-thumbnail.png
+date: 2026-05-03
+tags: ["workshop"]
+category: workshop
+author: FCAJ Team
+status: published
+---
+
+## Overview
+
+_TBD._
+
+## What You Will Learn
+
+_TBD._
+
+## Requirements
+
+_TBD._
+
+## Content
+
 ﻿Defining schema and access rules.
 
 ## `data/resource.ts`
@@ -305,3 +331,7 @@ export const data = defineData({
 ---
 
 [Continue to 4.4.3 Storage Layer (Storage)](../4.4.3-Storage/)
+
+## Conclusion
+
+_TBD._

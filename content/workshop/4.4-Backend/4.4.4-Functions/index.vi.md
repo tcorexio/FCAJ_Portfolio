@@ -1,3 +1,29 @@
+---
+title: ﻿## Các hàm chính trong dự án
+slug: /workshop/4.4-backend/4.4.4-functions
+description: Workshop content: ﻿## Các hàm chính trong dự án
+thumbnail: /images/workshop/default-thumbnail.png
+date: 2026-05-03
+tags: ["workshop"]
+category: workshop
+author: FCAJ Team
+status: published
+---
+
+## Overview
+
+_TBD._
+
+## What You Will Learn
+
+_TBD._
+
+## Requirements
+
+_TBD._
+
+## Content
+
 ﻿## Các hàm chính trong dự án
 
 ### 1. `ai-engine` — Bộ não AI
@@ -48,3 +74,7 @@ Dưới đây là mã nguồn skeleton cho từng hàm. Bạn hãy tạo các t�
 ---
 
 [Tiếp tục đến 4.5 Tầng Container ECS](../4.5-ECS-Fargate/)
+
+## Conclusion
+
+_TBD._

@@ -1,3 +1,29 @@
+---
+title: ﻿Managing images and media assets.
+slug: /workshop/4.4-backend/4.4.3-storage
+description: Workshop content: ﻿Managing images and media assets.
+thumbnail: /images/workshop/default-thumbnail.png
+date: 2026-05-03
+tags: ["workshop"]
+category: workshop
+author: FCAJ Team
+status: published
+---
+
+## Overview
+
+_TBD._
+
+## What You Will Learn
+
+_TBD._
+
+## Requirements
+
+_TBD._
+
+## Content
+
 ﻿Managing images and media assets.
 
 ## `storage/resource.ts`
@@ -35,3 +61,7 @@ export const storage = defineStorage({
 ---
 
 [Continue to 4.4.4 Logic Functions (Functions)](../4.4.4-Functions/)
+
+## Conclusion
+
+_TBD._

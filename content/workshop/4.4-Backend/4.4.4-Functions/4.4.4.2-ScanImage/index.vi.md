@@ -1,3 +1,29 @@
+---
+title: ﻿Hàm này đóng vai trò trung gian (Proxy) để gửi các yêu cầu phân tích hình ảnh từ AppSync tới cụm **ECS Fargate** thông qua Application Load Balancer.
+slug: /workshop/4.4-backend/4.4.4-functions/4.4.4.2-scanimage
+description: Workshop content: ﻿Hàm này đóng vai trò trung gian (Proxy) để gửi các yêu cầu phân tích hình ảnh từ AppSync tới cụm **ECS Fargate** thông qua Application Load Balancer.
+thumbnail: /images/workshop/default-thumbnail.png
+date: 2026-05-03
+tags: ["workshop"]
+category: workshop
+author: FCAJ Team
+status: published
+---
+
+## Overview
+
+_TBD._
+
+## What You Will Learn
+
+_TBD._
+
+## Requirements
+
+_TBD._
+
+## Content
+
 ﻿Hàm này đóng vai trò trung gian (Proxy) để gửi các yêu cầu phân tích hình ảnh từ AppSync tới cụm **ECS Fargate** thông qua Application Load Balancer.
 
 ### 1. Cấu hình Tài nguyên (`resource.ts`)
@@ -494,3 +520,7 @@ export const handler = async (event: any) => {
 ---
 
 [Quay lại danh sách các hàm](../)
+
+## Conclusion
+
+_TBD._

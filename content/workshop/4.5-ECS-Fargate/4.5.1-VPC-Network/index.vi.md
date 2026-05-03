@@ -1,3 +1,29 @@
+---
+title: ﻿Hướng dẫn này giúp bạn thiết lập nền tảng mạng AWS cho NutriTrack API: VPC riêng, 4 subnets trên 2 AZ, Internet Gateway, Route Tables, 3 Security Groups, và S3 Gateway VPC Endpoint.
+slug: /workshop/4.5-ecs-fargate/4.5.1-vpc-network
+description: Workshop content: ﻿Hướng dẫn này giúp bạn thiết lập nền tảng mạng AWS cho NutriTrack API: VPC riêng, 4 subnets trên 2 AZ, Internet Gateway, Route Tables, 3 Security Groups, và S3 Gateway VPC Endpoint.
+thumbnail: /images/workshop/default-thumbnail.png
+date: 2026-05-03
+tags: ["workshop"]
+category: workshop
+author: FCAJ Team
+status: published
+---
+
+## Overview
+
+_TBD._
+
+## What You Will Learn
+
+_TBD._
+
+## Requirements
+
+_TBD._
+
+## Content
+
 ﻿Hướng dẫn này giúp bạn thiết lập nền tảng mạng AWS cho NutriTrack API: VPC riêng, 4 subnets trên 2 AZ, Internet Gateway, Route Tables, 3 Security Groups, và S3 Gateway VPC Endpoint.
 
 > **Region:** `ap-southeast-2` (Sydney) | **Thời gian ước tính:** 45–60 phút
@@ -105,3 +131,7 @@ Sau khi hạ tầng mạng đã sẵn sàng, chúng ta sẽ chuẩn bị các t�
 - [4.5.2 Hạ tầng hỗ trợ (S3, Secrets, IAM)](../4.5.2-Infrastructure/)
 - [4.5.3 Tối ưu hóa NAT (NAT Instance)](../4.5.3-NAT-Instance/)
 - [4.5.4 Triển khai Fargate & ALB](../4.5.4-Fargate-ALB/)
+
+## Conclusion
+
+_TBD._

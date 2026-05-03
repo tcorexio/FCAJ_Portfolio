@@ -1,3 +1,29 @@
+---
+title: ﻿Hàm này quản lý các logic phức tạp liên quan đến hệ thống bạn bè, bao gồm gửi yêu cầu, chấp nhận và quản lý liên kết giữa người dùng.
+slug: /workshop/4.4-backend/4.4.4-functions/4.4.4.4-friendrequest
+description: Workshop content: ﻿Hàm này quản lý các logic phức tạp liên quan đến hệ thống bạn bè, bao gồm gửi yêu cầu, chấp nhận và quản lý liên kết giữa người dùng.
+thumbnail: /images/workshop/default-thumbnail.png
+date: 2026-05-03
+tags: ["workshop"]
+category: workshop
+author: FCAJ Team
+status: published
+---
+
+## Overview
+
+_TBD._
+
+## What You Will Learn
+
+_TBD._
+
+## Requirements
+
+_TBD._
+
+## Content
+
 ﻿Hàm này quản lý các logic phức tạp liên quan đến hệ thống bạn bè, bao gồm gửi yêu cầu, chấp nhận và quản lý liên kết giữa người dùng.
 
 ### 1. Cài đặt thư viện (npm install)
@@ -405,3 +431,7 @@ async function countPendingRequests(tableName: string, callerOwner: string) {
 ---
 
 [Quay lại danh sách các hàm](../)
+
+## Conclusion
+
+_TBD._

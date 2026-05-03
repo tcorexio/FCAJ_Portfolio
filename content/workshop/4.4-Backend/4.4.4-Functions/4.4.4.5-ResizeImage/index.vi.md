@@ -1,3 +1,29 @@
+---
+title: ﻿Hàm này được kích hoạt tự động mỗi khi có hình ảnh được tải lên S3 để thu nhỏ kích thước (Resize) và tạo hình ảnh thu nhỏ (Thumbnail).
+slug: /workshop/4.4-backend/4.4.4-functions/4.4.4.5-resizeimage
+description: Workshop content: ﻿Hàm này được kích hoạt tự động mỗi khi có hình ảnh được tải lên S3 để thu nhỏ kích thước (Resize) và tạo hình ảnh thu nhỏ (Thumbnail).
+thumbnail: /images/workshop/default-thumbnail.png
+date: 2026-05-03
+tags: ["workshop"]
+category: workshop
+author: FCAJ Team
+status: published
+---
+
+## Overview
+
+_TBD._
+
+## What You Will Learn
+
+_TBD._
+
+## Requirements
+
+_TBD._
+
+## Content
+
 ﻿Hàm này được kích hoạt tự động mỗi khi có hình ảnh được tải lên S3 để thu nhỏ kích thước (Resize) và tạo hình ảnh thu nhỏ (Thumbnail).
 
 ### 1. Cài đặt thư viện (npm install)
@@ -115,3 +141,7 @@ export const handler: S3Handler = async (event) => {
 ---
 
 [Quay lại danh sách các hàm](../)
+
+## Conclusion
+
+_TBD._

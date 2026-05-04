@@ -1,14 +1,3 @@
----
-title: Các yêu cầu về truy cập và thông tin
-slug: /workshop/4.2-prerequiste/
-description: Workshop content: ﻿## Các yêu cầu về truy cập và thông tin
-thumbnail: /images/workshop/default-thumbnail.png
-date: 2026-05-03
-tags: ["workshop"]
-category: workshop
-author: FCAJ Team
-status: published
----
 
 ## Overview
 
@@ -50,7 +39,6 @@ Tải ứng dụng **Expo Go** từ App Store hoặc Play Store để có thể 
 
 ---
 
-[Tiếp tục đến 4.3 Thiết lập Frontend](../4.3-Frontend/)
 
 ## Conclusion
 

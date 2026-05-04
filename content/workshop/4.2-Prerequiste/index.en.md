@@ -1,14 +1,4 @@
----
-title: Access and Information Requirements
-slug: /workshop/4.2-prerequiste/
-description: Workshop content: ﻿## Access and Information Requirements
-thumbnail: /images/workshop/default-thumbnail.png
-date: 2026-05-03
-tags: ["workshop"]
-category: workshop
-author: FCAJ Team
-status: published
----
+
 
 ## Overview
 
@@ -50,7 +40,6 @@ Download the **Expo Go** application from the App Store or Play Store to test th
 
 ---
 
-[Continue to 4.3 Frontend Setup](../4.3-Frontend/)
 
 ## Conclusion
 
